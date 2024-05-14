@@ -4,7 +4,7 @@ Group members:
 
 * Anton: `link to github`
 * Lucas: `[link to github](https://github.com/ljulbrich)`
-* Roy: `[link to github](https://github.com/)`
+* Roy: `[link to github](https://github.com/Roy-Ip)`
 * Theo: `link to github`
 
 ## Project Proposal
